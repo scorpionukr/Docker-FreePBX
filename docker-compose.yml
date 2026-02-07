@@ -1,4 +1,3 @@
-version: '3'
 services:
   freepbx:
     image: blacksunsolutions/freepbx:latest

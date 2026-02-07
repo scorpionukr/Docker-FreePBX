@@ -1,4 +1,4 @@
-FROM debian:12
+FROM debian:12-slim
 
 EXPOSE 80 443 4569 5060 10000-20000/udp
 
